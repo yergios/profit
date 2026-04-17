@@ -9,6 +9,10 @@ no backend, no data stored. Works offline. You land on the page and you're ready
 
 1. Open `src/index.html` in your browser
 
+## Contributing
+
+Before you raise any issues or PR, please refer to [CONTRIBUTING.md](./docs/CONTRIBUTING.md).
+
 ## License
 
 All rights reserved. See [LICENSE](./LICENSE).
