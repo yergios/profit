@@ -7,7 +7,8 @@ no backend, no data stored. Works offline. You land on the page and you're ready
 
 ## How to run locally
 
-1. Open `src/index.html` in your browser
+1. Clone this repository.
+2. Open `src/index.html` in your file location of the project, it should redirect you to your default browser.
 
 ## Contributing
 
